@@ -1,12 +1,4 @@
-/*
- * jQuery.fappear
- * https://github.com/bas2k/jquery.fappear/
- * http://code.google.com/p/jquery-fappear/
- *
- * Copyright (c) 2009 Michael Hixson
- * Copyright (c) 2012 Alexander Brovikov
- * Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)
- */
+
 (function ($) {
     $.fn.fappear = function (fn, options) {
 
